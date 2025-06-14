@@ -1,0 +1,13 @@
+/* src/components/SuccessAlert.css */
+.custom-success-alert {
+  border-left: 5px solid #198754;
+  background-color: #e6f9ed;
+  font-weight: 500;
+  padding: 0.75rem 1.25rem;
+  border-radius: 0.5rem;
+}
+
+.success-icon {
+  color: #198754;
+  font-size: 1.4rem;
+}

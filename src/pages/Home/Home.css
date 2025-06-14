@@ -1,0 +1,13 @@
+/* Home.css */
+.home-section {
+  background-color: #f8f9fa; /* Bootstrap bg-light */
+  display: flex;
+  align-items: center;
+}
+
+.home-image {
+  max-width: 800px;
+  width: 100%;
+  height: auto;
+}
+
